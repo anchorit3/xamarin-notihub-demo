@@ -1,0 +1,15 @@
+C:\Users\dawid\source\repos\xamarin-notihub-demo\PushDemoApp\PushDemoApp\bin\Debug\netstandard2.0\PushDemoApp.deps.json
+C:\Users\dawid\source\repos\xamarin-notihub-demo\PushDemoApp\PushDemoApp\bin\Debug\netstandard2.0\PushDemoApp.dll
+C:\Users\dawid\source\repos\xamarin-notihub-demo\PushDemoApp\PushDemoApp\bin\Debug\netstandard2.0\PushDemoApp.pdb
+C:\Users\dawid\source\repos\xamarin-notihub-demo\PushDemoApp\PushDemoApp\obj\Debug\netstandard2.0\PushDemoApp.csproj.AssemblyReference.cache
+C:\Users\dawid\source\repos\xamarin-notihub-demo\PushDemoApp\PushDemoApp\obj\Debug\netstandard2.0\PushDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\source\repos\xamarin-notihub-demo\PushDemoApp\PushDemoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dawid\source\repos\xamarin-notihub-demo\PushDemoApp\PushDemoApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dawid\source\repos\xamarin-notihub-demo\PushDemoApp\PushDemoApp\obj\Debug\netstandard2.0\PushDemoApp.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\xamarin-notihub-demo\PushDemoApp\PushDemoApp\obj\Debug\netstandard2.0\PushDemoApp.AssemblyInfo.cs
+C:\Users\dawid\source\repos\xamarin-notihub-demo\PushDemoApp\PushDemoApp\obj\Debug\netstandard2.0\PushDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\xamarin-notihub-demo\PushDemoApp\PushDemoApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dawid\source\repos\xamarin-notihub-demo\PushDemoApp\PushDemoApp\obj\Debug\netstandard2.0\PushDemoApp.dll
+C:\Users\dawid\source\repos\xamarin-notihub-demo\PushDemoApp\PushDemoApp\obj\Debug\netstandard2.0\refint\PushDemoApp.dll
+C:\Users\dawid\source\repos\xamarin-notihub-demo\PushDemoApp\PushDemoApp\obj\Debug\netstandard2.0\PushDemoApp.pdb
+C:\Users\dawid\source\repos\xamarin-notihub-demo\PushDemoApp\PushDemoApp\obj\Debug\netstandard2.0\ref\PushDemoApp.dll
